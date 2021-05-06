@@ -1,0 +1,18 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package question04;
+
+/**
+ *
+ * @author S542298
+ */
+public class Orange extends Fruit{
+    
+    public void makeOrangeJuice(){
+        System.out.println("This is Orange");
+    }
+    
+}
